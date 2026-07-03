@@ -40,28 +40,6 @@ Currently building projects in Sales Analytics, HR Analytics, Customer Service A
 | Call Center Dashboard | Power BI | Customer Service | KPI Analysis | [View](https://github.com/Rohini-13/Call-Center-Analysis-Dashboard-Power-BI-) |
 | DiabetesPulse AI Agent | Python | Healthcare | AI Agent | [View](https://github.com/Rohini-13/DiabetesPulse-AI-Agent) |
 
-
-
-
-### Analytics & BI
-- Power BI
-- Tableau
-- KPI Analysis
-- Dashboard Design
-- Data Storytelling
-
-### Data Analysis
-- SQL
-- Excel
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Business Analysis
-
-### AI & Emerging Technologies
-- AI Agents
-- Prompt Engineering
-- Healthcare Analytics
-
 ---
 
 # Featured Projects
@@ -83,6 +61,8 @@ Interactive Tableau dashboard analyzing bike sales performance across products, 
 ### Tools
 Tableau, Data Visualization, Business Analytics
 
+## 📷 Dashboard Preview
+<img width="697" height="378" alt="Screenshot " src="https://github.com/user-attachments/assets/913cf7f7-c166-4f9c-b2ef-7a503992d655" />
 ---
 
 ## ⚡ Electric Vehicle Dashboard (Tableau)
