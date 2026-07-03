@@ -200,16 +200,18 @@ Power BI
 
 ---
 
-# Technical Skills
+## 💻 Technical Skills
 
 | Category | Skills |
-|-----------|----------|
+|----------|---------|
 | BI Tools | Power BI, Tableau |
 | Databases | SQL |
-| Data Analysis | EDA, Data Cleaning, KPI Analysis |
-| Visualization | Dashboard Design, Storytelling |
-| AI | AI Agents, Prompt Engineering |
-| Business Domains | Sales, HR, Customer Service, Healthcare |
+| Programming | Python |
+| Spreadsheet | Excel |
+| Analytics | EDA, Data Cleaning |
+| Visualization | Dashboard Design |
+| Business | KPI Analysis |
+| AI | Prompt Engineering |
 
 ---
 
