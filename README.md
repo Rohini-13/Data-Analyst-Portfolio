@@ -3,6 +3,8 @@
 </p>
 
 https://img.shields.io/badge/Power%5CBI
+![Static Badge](https://img.shields.io/badge/Power%20Query)
+
 
 # Data Analyst Portfolio
 
