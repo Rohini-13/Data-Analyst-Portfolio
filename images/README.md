@@ -1,0 +1,2 @@
+
+This folder stores portfolio images.
