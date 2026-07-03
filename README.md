@@ -28,14 +28,16 @@ Currently building projects in Sales Analytics, HR Analytics, Customer Service A
 | AI | Prompt Engineering |
 | Languages | Python |
 
-| Project       | Tool     | Domain           | Repository |
-| ------------- | -------- | ---------------- | ---------- |
-| Bike Sales    | Tableau  | Sales            | Link       |
-| EV Dashboard  | Tableau  | Automotive       | Link       |
-| HR Dashboard  | Power BI | HR               | Link       |
-| Netflix       | Power BI | Entertainment    | Link       |
-| Call Center   | Power BI | Customer Service | Link       |
-| DiabetesPulse | Python   | Healthcare       | Link       |
+## 📂 Featured Projects
+
+| Project | Tool | Domain | Skills | Repository |
+|---------|------|---------|---------|------------|
+| Bike Sales Dashboard | Tableau | Sales | Dashboard, KPI Analysis | [View](https://github.com/Rohini-13/Bike-Sales-Analysis--Tableau-Dashboard) |
+| Electric Vehicle Dashboard | Tableau | Automotive | Visualization | [View](https://github.com/Rohini-13/Electric-Vehicle-Dashboard---Tableau) |
+| HR Dashboard | Power BI | HR | Workforce Analytics | [View](https://github.com/Rohini-13/HR-Analysis-PowerBi-project) |
+| Netflix Dashboard | Power BI | Entertainment | Data Visualization | [View](https://github.com/Rohini-13/Netflix-Dashboard-PowerBi-project) |
+| Call Center Dashboard | Power BI | Customer Service | KPI Analysis | [View](https://github.com/Rohini-13/Call-Center-Analysis-Dashboard-Power-BI-) |
+| DiabetesPulse AI Agent | Python | Healthcare | AI Agent | [View](https://github.com/Rohini-13/DiabetesPulse-AI-Agent) |
 
 
 
