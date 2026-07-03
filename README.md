@@ -1,3 +1,8 @@
+<p align="center">
+<img src="images/Purple Sky Profile Header.png" width="100%">
+</p>
+
+
 # Data Analyst Portfolio
 
 # Hi, I'm Rohini 👋
