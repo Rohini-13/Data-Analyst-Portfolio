@@ -32,7 +32,7 @@ Currently building projects in Sales Analytics, HR Analytics, Customer Service A
 
 | Project | Tool | Domain | Skills | Repository |
 |---------|------|---------|---------|------------|
-| Bike Sales Dashboard | Tableau | Sales | Dashboard, KPI Analysis | [View](https://github.com/Rohini-13/Bike-Sales-Analysis--Tableau-Dashboard) |
+| Bike Sales Dashboard | Tableau | Sales | Dashboard, KPI Analysis | [View](https://github.com/Rohini-13/Bike-Sales-Analysis--Tableau-Dashboard) | 
 | Electric Vehicle Dashboard | Tableau | Automotive | Visualization | [View](https://github.com/Rohini-13/Electric-Vehicle-Dashboard---Tableau) |
 | HR Dashboard | Power BI | HR | Workforce Analytics | [View](https://github.com/Rohini-13/HR-Analysis-PowerBi-project) |
 | Netflix Dashboard | Power BI | Entertainment | Data Visualization | [View](https://github.com/Rohini-13/Netflix-Dashboard-PowerBi-project) |
