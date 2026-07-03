@@ -18,7 +18,7 @@ Currently building projects in Sales Analytics, HR Analytics, Customer Service A
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Skills
+## 📂 Skills
 
 | Category | Skills |
 |----------|---------|
