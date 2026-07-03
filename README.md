@@ -28,9 +28,17 @@ Currently building projects in Sales Analytics, HR Analytics, Customer Service A
 | AI | Prompt Engineering |
 | Languages | Python |
 
+| Project       | Tool     | Domain           | Repository |
+| ------------- | -------- | ---------------- | ---------- |
+| Bike Sales    | Tableau  | Sales            | Link       |
+| EV Dashboard  | Tableau  | Automotive       | Link       |
+| HR Dashboard  | Power BI | HR               | Link       |
+| Netflix       | Power BI | Entertainment    | Link       |
+| Call Center   | Power BI | Customer Service | Link       |
+| DiabetesPulse | Python   | Healthcare       | Link       |
 
 
-## Skills
+
 
 ### Analytics & BI
 - Power BI
