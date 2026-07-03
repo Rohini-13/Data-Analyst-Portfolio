@@ -81,6 +81,8 @@ Comprehensive EV adoption and performance dashboard.
 ### Tools
 Tableau, Data Visualization
 
+## Dashboard Screenshot
+<img width="766" height="437" alt="image" src="https://github.com/user-attachments/assets/6a1ef098-afd5-4d2d-8638-45d72af5dc25" />
 ---
 
 ## 🏥 DiabetesPulse AI Agent
@@ -99,6 +101,8 @@ AI-powered healthcare assistant focused on diabetes-related insights and support
 ### Tools
 Python, AI Technologies
 
+## Screenshots/ Preview 
+<img width="581" height="455" alt="Screenshot 1" src="https://github.com/user-attachments/assets/63bcda84-2e9f-4c6f-830d-41844c7185e2" />
 ---
 
 ## 📈 Classic Models Sales Analysis Dashboard
@@ -113,7 +117,9 @@ Sales performance dashboard analyzing revenue, products, and business KPIs.
 - Sales Analytics
 - KPI Tracking
 - Business Intelligence
-
+- 
+- ## Preview
+<img width="571" height="349" alt="Page 1" src="https://github.com/user-attachments/assets/8cc9c938-e83a-4f3c-ae28-a4bcf94d5cf2" />
 ---
 
 ## 🎬 Netflix Dashboard (Power BI)
