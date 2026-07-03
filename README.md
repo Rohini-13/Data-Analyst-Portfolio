@@ -9,12 +9,26 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-# Data Analyst Portfolio
-
 # Hi, I'm Rohini 👋
 
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights through data visualization, dashboarding, and analytics.
+Aspiring Data Analyst with hands-on experience in Power BI, Tableau, SQL, Excel, and data visualization.
+
+I enjoy transforming raw business data into meaningful dashboards that help organizations make informed decisions.
+
+Currently building projects in Sales Analytics, HR Analytics, Customer Service Analytics, Healthcare Analytics, and Business Intelligence.
+
+## Skills
+
+| Category | Skills |
+|----------|---------|
+| BI Tools | Power BI, Tableau |
+| Database | SQL |
+| Analytics | Excel, EDA |
+| Visualization | Dashboard Design |
+| AI | Prompt Engineering |
+| Languages | Python |
+
+
 
 ## Skills
 
