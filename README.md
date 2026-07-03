@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/Purple Sky Profile Header.png" width="100%">
+  <img src="images/banner.png" width="100%">
 </p>
 
 
