@@ -215,10 +215,13 @@ Power BI
 
 ---
 
-# Contact
+## 📫 Connect With Me
 
 GitHub:
-https://github.com/Rohini-13
+[https://github.com/Rohini-13]
+
+Email:
+[rohinirameshkumar13@gmail.com]
 
 ---
 
