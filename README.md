@@ -117,7 +117,7 @@ Sales performance dashboard analyzing revenue, products, and business KPIs.
 - Sales Analytics
 - KPI Tracking
 - Business Intelligence
-- 
+
 - ## Preview
 <img width="571" height="349" alt="Page 1" src="https://github.com/user-attachments/assets/8cc9c938-e83a-4f3c-ae28-a4bcf94d5cf2" />
 ---
@@ -138,6 +138,8 @@ Analysis of Netflix content library and trends.
 ### Tools
 Power BI
 
+- ## Dashboard Preview
+<img width="569" height="397" alt="screenshot2" src="https://github.com/user-attachments/assets/31e38033-fe11-4d26-a35b-9e999a144044" />
 ---
 
 ## 🚴 Bike Company Dashboard (Power BI)
@@ -150,6 +152,9 @@ Business dashboard providing sales and operational insights for a bike company.
 
 ### Tools
 Power BI, Business Intelligence
+
+## 🔹 Screenshots
+<img width="590" height="334" alt="Screenshot 2" src="https://github.com/user-attachments/assets/2f46e0fd-9fe0-4d13-a0ef-4a92f522e53d" />
 
 ---
 
@@ -169,6 +174,9 @@ Workforce analytics dashboard focused on employee trends and HR KPIs.
 ### Tools
 Power BI
 
+- ## Dashboard Screenshot
+<img width="611" height="353" alt="Screenshot 1" src="https://github.com/user-attachments/assets/17eea85b-2999-49f4-962b-18863fa19a52" />
+
 ---
 
 ## 📞 Call Center Analysis Dashboard (Power BI)
@@ -186,6 +194,9 @@ Customer service and operational performance dashboard.
 
 ### Tools
 Power BI
+
+## 🔹 Screenshots 
+<img width="707" height="395" alt="Screenshot 1" src="https://github.com/user-attachments/assets/fa1bc7eb-a3be-4849-a81b-d6b5775f01d7" />
 
 ---
 
