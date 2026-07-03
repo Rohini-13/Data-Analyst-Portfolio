@@ -2,6 +2,7 @@
   <img src="images/banner.png" width="100%">
 </p>
 
+https://img.shields.io/badge/Power%5CBI
 
 # Data Analyst Portfolio
 
