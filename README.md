@@ -2,6 +2,14 @@
   <img src="images/banner.png" width="100%">
 </p>
 
+
+
+# Hi, I'm Rohini 👋
+
+Aspiring Data Analyst with hands-on experience in Power BI, Tableau, SQL, Excel, and data visualization.
+I enjoy transforming raw business data into meaningful dashboards that help organizations make informed decisions.
+Currently building projects in Sales Analytics, HR Analytics, Customer Service Analytics, Healthcare Analytics, and Business Intelligence.
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -9,13 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# Hi, I'm Rohini 👋
-
-Aspiring Data Analyst with hands-on experience in Power BI, Tableau, SQL, Excel, and data visualization.
-
-I enjoy transforming raw business data into meaningful dashboards that help organizations make informed decisions.
-
-Currently building projects in Sales Analytics, HR Analytics, Customer Service Analytics, Healthcare Analytics, and Business Intelligence.
 
 ## Skills
 
